@@ -4,6 +4,7 @@
   "description": "A simple app built for the testing react with jest and react testing library on udemy",
   "main": "index.js",
   "scripts": {
+    "start": "cross-env NODE_ENV=development webpack serve",
     "test": "jest --watch --coverage"
   },
   "author": "Alex Wiegand",

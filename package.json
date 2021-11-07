@@ -1,0 +1,11 @@
+{
+  "name": "color-button",
+  "version": "1.0.0",
+  "description": "A simple app built for the testing react with jest and react testing library on udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch --coverage"
+  },
+  "author": "Alex Wiegand",
+  "license": "ISC"
+}
